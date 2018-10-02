@@ -5,7 +5,6 @@ tools/paket.exe
 *.user
 *.suo
 *.cache
-*.sln
 *.ncrunchsolution
 *.dgml
 bin
